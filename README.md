@@ -78,14 +78,14 @@ Based on published silicon results:
 | PUMA | 65nm | — | 837 GOPS/W |
 | TrueNorth | 28nm | 65 mW | 10⁶ synops/J |
 
-:contentReference[oaicite:5]{index=5}  
+
 
 ---
 
 ## 📉 Energy vs Latency Tradeoff
 <img width="811" height="568" alt="image" src="https://github.com/user-attachments/assets/1d9cb5b2-5f66-4e5e-8f28-5dbfff66003d" />
 
-ISAAC and PUMA achieve the **lowest energy per inference**, while digital accelerators provide **higher throughput** :contentReference[oaicite:6]{index=6}  
+ISAAC and PUMA achieve the **lowest energy per inference**, while digital accelerators provide **higher throughput** 
 
 ---
 
@@ -99,7 +99,7 @@ These accelerators enable:
 - Industrial IoT  
 - Edge anomaly detection  
 
-All operating at **milliwatt-level power** :contentReference[oaicite:7]{index=7}  
+All operating at **milliwatt-level power** 
 
 ---
 
